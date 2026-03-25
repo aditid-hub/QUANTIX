@@ -1,0 +1,58 @@
+[
+    {
+        "user": "Nd",
+        "title": "DSA",
+        "deadline": "2026-03-25",
+        "hours": 1,
+        "priority": "Low"
+    },
+    {
+        "user": "Nd",
+        "title": "Maths",
+        "deadline": "2026-03-25",
+        "hours": 1,
+        "priority": "Low"
+    },
+    {
+        "user": "Nd",
+        "title": "Chemistry",
+        "deadline": "2026-03-30",
+        "hours": 4,
+        "priority": "Medium"
+    },
+    {
+        "user": "Nd",
+        "title": "Market",
+        "deadline": "2026-03-30",
+        "hours": 2,
+        "priority": "Low"
+    },
+    {
+        "user": "Nd",
+        "title": "N+",
+        "deadline": "2026-03-25",
+        "hours": 2,
+        "priority": "Low"
+    },
+    {
+        "user": "Aditi Dubey",
+        "title": "DSA",
+        "deadline": "2026-03-31",
+        "hours": 1,
+        "priority": "Low"
+    },
+    {
+        "user": "Aditi Dubey",
+        "title": "Maths",
+        "deadline": "2026-03-31",
+        "hours": 2,
+        "priority": "Low"
+    },
+    {
+        "user": "Aditi Dubey",
+        "title": "Maths",
+        "deadline": "2026-03-31",
+        "hours": 2,
+        "priority": "Low"
+    }
+]

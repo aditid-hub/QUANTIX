@@ -1,0 +1,18 @@
+[theme]
+# A soft Rose Gold for buttons and highlights
+primaryColor = "#E29578"
+
+# Deep Charcoal for the main background (easier on the eyes)
+backgroundColor = "#1A1A1D"
+
+# A slightly lighter grey for sidebars and cards
+secondaryBackgroundColor = "#2C2C2E"
+
+# Off-white for text (pure white is too harsh)
+textColor = "#EDF6F9"
+
+# 'serif' gives it that sophisticated, editorial look
+font = "serif"
+
+[sidebar]
+showSidebarNavigation = true
