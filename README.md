@@ -76,6 +76,9 @@ Background: Charcoal Glassmorphism (rgba(255, 255, 255, 0.05))
 
 Typography: Custom Dancing Script cursive for branding.
 
+### Live Demo
+Experience the Quantix Dashboard live:https://aditidubey-quantix.streamlit.app/
+
 ### 📝 License
 Distributed under the MIT License. See LICENSE for more information.
 
