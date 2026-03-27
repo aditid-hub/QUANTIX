@@ -13,8 +13,11 @@ Quantix bridges the gap between raw data and actionable intelligence. By leverag
 
 **Quantix** is a high-aesthetic, intelligent task management dashboard designed for students and professionals. By combining a sleek **Rose Gold & Charcoal** glassmorphic UI with a machine learning engine, Quantix doesn't just list your tasks—it tells you what to prioritize to stay ahead.
 
+Front Page
 ![WhatsApp Image 2026-03-25 at 23 56 59 (1)](https://github.com/user-attachments/assets/a246ea4a-99f0-4680-aa12-cb4aeecaad4b)
+Login Page
 ![WhatsApp Image 2026-03-25 at 23 57 17](https://github.com/user-attachments/assets/a3044fca-7921-42ad-a3c3-22afaeba6a25)
+Task Management Dashboard
 ![WhatsApp Image 2026-03-25 at 23 57 27](https://github.com/user-attachments/assets/22e479b7-19f7-42b7-8525-5af7f37567be)
 
 ## ✨ Key Features
